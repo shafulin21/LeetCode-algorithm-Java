@@ -3,6 +3,39 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/BalancedBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/doc/content/BalancedBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn110" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/BalancedBinaryTree.java" />
+              <option name="titleSlug" value="balanced-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/FindTheIndexOfTheFirstOccurrenceInAString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/doc/content/FindTheIndexOfTheFirstOccurrenceInAString.md" />
+              <option name="frontendQuestionId" value="leetcode.cn28" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/FindTheIndexOfTheFirstOccurrenceInAString.java" />
+              <option name="titleSlug" value="find-the-index-of-the-first-occurrence-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/MaximumDepthOfBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/doc/content/MaximumDepthOfBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn104" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/MaximumDepthOfBinaryTree.java" />
+              <option name="titleSlug" value="maximum-depth-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1409]查询带键的排列.java">
           <value>
             <LeetcodeEditor>
@@ -11,6 +44,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1409]查询带键的排列.java" />
               <option name="titleSlug" value="queries-on-a-permutation-with-key" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[28]找出字符串中第一个匹配项的下标.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/doc/content/FindTheIndexOfTheFirstOccurrenceInAString.md" />
+              <option name="frontendQuestionId" value="leetcode.cn28" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/base_data_structure/src/leetcode/editor/cn/FindTheIndexOfTheFirstOccurrenceInAString.java" />
+              <option name="titleSlug" value="find-the-index-of-the-first-occurrence-in-a-string" />
             </LeetcodeEditor>
           </value>
         </entry>
